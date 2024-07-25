@@ -7,11 +7,10 @@ além de algumas informações sobre mim e minhas habilidades.
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente estou trabalhando em [Meu primeiro projeto/Dio]
-- 🌱 Estou aprendendo [python, java, banco de dados, arduino]
 - 👯 Estou procurando colaborar em [projeto open source]
 - 📚 Estou cursando curso técnico em desenvolvimento de sistemas - Sesi Senai SIG
 - 📚 Cursando também no período da tarde python e IA.
-- 📚 Estudando Bootcamp dio, python e IA.
+- 📚 Estudando Bootcamp Nexa, Machine learning.
 - 💬 Pergunte-me sobre [Tecnologias]
 - 📫 Como me encontrar: [lucas.jesus6@aluno.senai.br,
 - linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279]
