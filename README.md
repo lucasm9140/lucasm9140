@@ -10,7 +10,6 @@ além de algumas informações sobre mim e minhas habilidades.
 - 👯 Estou procurando colaborar em [projeto open source]
 - 📚 Estou cursando curso técnico em desenvolvimento de sistemas - Sesi Senai SIG
 - 📚 Cursando também no período da tarde python e IA.
-- 📚 Estudando Bootcamp Nexa, Machine learning.
 - 💬 Pergunte-me sobre [Tecnologias]
 - 📫 Como me encontrar: [lucas.jesus6@aluno.senai.br,
 - linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279]
