@@ -48,7 +48,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🌟 Projetos em Destaque
 - [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
-- [Projetos Java](https://github.com/lucasm9140/javaMatutino.git)  
+- [Projetos Java](https://github.com/lucasm9140/javaMatutino.git)
+- [Projeto Dio](https://github.com/lucasm9140/Projeto-dio.git) 
 
 ## 🌱 Interesses Pessoais
 - Desenvolvimento de Software
