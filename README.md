@@ -30,6 +30,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Habilidades/Conhecimento
 - HTML
 - CSS
+- Machine learning
+- Mineração de textos
 
 ### Ferramentas e Plataformas
 - Git
