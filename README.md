@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos projetos em que estou trabalhando, além de informações sobre mim e minhas habilidades.
 
 ## 🚀 Sobre Mim
-- 🔭 Atualmente estou trabalhando em [Meu primeiro projeto/Dio].
+- 🔭 Atualmente estou trabalhando em [Projeto Python & IA, Gestão Financeira Epresarial e pessoal/Senai Taguatinga].
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Estou cursando um curso técnico em Desenvolvimento de Sistemas no Senai SIG.
 - 📚 Cursando também, no período da tarde, Python e IA.
