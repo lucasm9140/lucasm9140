@@ -5,8 +5,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🚀 Sobre Mim
 - 🔭 Atualmente estou trabalhando em [Projeto Python & IA, Gestão Financeira Epresarial e pessoal/Senai Taguatinga].
 - 👯 Estou procurando colaborar em projetos open source.
+- 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, ead - Uninter.
 - 📚 Estou cursando um curso técnico em Desenvolvimento de Sistemas no Senai SIG.
 - 📚 Cursando também, no período da tarde, Python e IA.
+- 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
   - Email: [lucas.jesus6@aluno.senai.br](mailto:lucas.jesus6@aluno.senai.br)
@@ -21,11 +23,22 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Frameworks e Bibliotecas
 - **Python:** 
   - Flask
+  - FastAPI
   - Django
   - NumPy
   - Pandas
+  - Matplotlib
+  - Sklearn
+  - Seaborn
+  - SqlAlchemy
+  - Pymysql
+  - Streamlit
 - **Java:**
-  - Bootstrap
+  - Jframe
+  - java.lang
+  - java.io
+  - java.util
+  - JDBC
 
 ### Habilidades/Conhecimento
 - HTML
@@ -39,12 +52,16 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - Visual Studio Code
 - Arduino
 - Eclipse IDE
+- Google Colab
 
 ### Bancos de Dados
 - MySQL
 
 ### Certificações
 - Certificado de Soft Skills
+- Python devolper
+- Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad
+- Inteligência Artificial
 
 ## 🌟 Projetos em Destaque
 - [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
