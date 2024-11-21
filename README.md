@@ -46,7 +46,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - CSS
 - Machine learning
 - Mineração de textos
-- Deeplearning
+- Análise Exploratória de Dados
+- Deep learning
 
 ### Ferramentas e Plataformas
 - Git
