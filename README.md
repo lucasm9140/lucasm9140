@@ -33,6 +33,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - SqlAlchemy
   - Pymysql
   - Streamlit
+  - Pygame
 - **Java:**
   - Jframe
   - java.lang
@@ -45,6 +46,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - CSS
 - Machine learning
 - Mineração de textos
+- Deeplearning
 
 ### Ferramentas e Plataformas
 - Git
