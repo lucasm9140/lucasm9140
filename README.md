@@ -34,6 +34,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - Pymysql
   - Streamlit
   - Pygame
+  - Pytorch
+  - TensorFlow
 - **Java:**
   - Jframe
   - java.lang
