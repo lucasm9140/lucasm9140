@@ -36,6 +36,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - Pygame
   - Pytorch
   - TensorFlow
+  - Joblib
+
 - **Java:**
   - Jframe
   - java.lang
@@ -58,6 +60,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - Arduino
 - Eclipse IDE
 - Google Colab
+- IntelliJ
+- Netbeans
 
 ### Bancos de Dados
 - MySQL
