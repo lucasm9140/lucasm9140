@@ -76,7 +76,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
 - [Projetos Java](https://github.com/lucasm9140/javaMatutino.git)
 - [Projeto Dio](https://github.com/lucasm9140/Projeto-dio.git)
-- [Projeto Python - I.A Gestão de gastos empresariais e pessoais]
+- [Projeto Python - I.A Gestão de gastos empresariais e pessoais](https://github.com/lucasm9140/project_final)
 
 ## 🌱 Interesses Pessoais
 - Desenvolvimento de Software
