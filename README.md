@@ -3,11 +3,11 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos projetos em que estou trabalhando, além de informações sobre mim e minhas habilidades.
 
 ## 🚀 Sobre Mim
-- 🔭 Atualmente estou trabalhando em [Projeto Python & IA, Gestão Financeira Epresarial e pessoal/Senai Taguatinga].
+- 🔭 Atualmente estou trabalhando em [Projeto Python & IA, Gestão Financeira Empresarial e pessoal/Senai Taguatinga]
+-  [Projeto Java com Python & IA, Gestão Financeira Empresarial e pessoal/Senai SIG].
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, ead - Uninter.
 - 📚 Estou cursando um curso técnico em Desenvolvimento de Sistemas no Senai SIG.
-- 📚 Cursando também, no período da tarde, Python e IA.
 - 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
@@ -44,6 +44,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - java.io
   - java.util
   - JDBC
+  - Springboot
 
 ### Habilidades/Conhecimento
 - HTML
@@ -66,7 +67,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Bancos de Dados
 - MySQL
 
-### Certificações
+### Certificados
 - Certificado de Soft Skills
 - Python devolper
 - Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad
