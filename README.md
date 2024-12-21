@@ -6,8 +6,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 Atualmente estou trabalhando em [Projeto Python Com IA, Gestão Financeira Empresarial e pessoal/Senai Taguatinga],
 -  [Projeto Java com Python & IA, Gestão Financeira Empresarial e pessoal/Senai SIG].
 - 👯 Estou procurando colaborar em projetos open source.
-- 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, ead - Uninter.
-- 📚 Estou cursando um curso técnico em Desenvolvimento de Sistemas no Senai SIG.
+- 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
+- 📚 Cursando curso técnico em Desenvolvimento de Sistemas no Senai SIG - Data Final: 03/2025.
 - 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
@@ -68,10 +68,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - MySQL
 
 ### Certificados
-- Certificado de Soft Skills
-- Python devolper
-- Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad
-- Inteligência Artificial
+- Certificado de Soft Skills.
+- Desenvolvedor Python.
+- Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad.
+- Inteligência Artificial.
 
 ## 🌟 Projetos em Destaque
 - [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
@@ -80,9 +80,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - [Projeto Python - I.A Gestão de gastos empresariais e pessoais](https://github.com/lucasm9140/project_final)
 
 ## 🌱 Interesses Pessoais
-- Desenvolvimento de Software
-- Desenvolvimento Web
-- Ciência de Dados
-- Inteligência Artificial
+- Desenvolvimento de Software.
+- Desenvolvimento Web.
+- Ciência de Dados.
+- Inteligência Artificial.
+- Desenvolvedor Fullstack.
 
 ---
