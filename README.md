@@ -19,6 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - Python
 - Java
 - C
+- JavaScript
 
 ### Frameworks e Bibliotecas
 - **Python:** 
