@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
 - 📚 Cursando curso técnico em Desenvolvimento de Sistemas no Senai SIG - Data Final: 03/2025.
+- 📚 Cursando FullStack - Senai EAD
 - 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
@@ -68,6 +69,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ### Bancos de Dados
 - MySQL
+- SQLite
 
 ### Certificados
 - Certificado de Soft Skills.
