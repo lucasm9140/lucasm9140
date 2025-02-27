@@ -42,6 +42,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - Joblib
 
 - **Java:**
+  - JavaFX
   - Jframe
   - java.lang
   - java.io
