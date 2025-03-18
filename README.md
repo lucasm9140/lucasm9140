@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos projetos em que estou trabalhando, além de informações sobre mim e minhas habilidades.
 
 ## 🚀 Sobre Mim
-- 🔭 Atualmente estou trabalhando em [Projeto Python Com IA, Gestão Financeira Empresarial e pessoal/Senai Taguatinga],
--  [Projeto Java com Python & IA, Gestão Financeira Empresarial e pessoal/Senai SIG].
+- 🔭 [Projeto Final - Modelo de IA Gestão Financeira Empresarial e pessoal/Senai Taguatinga].
+- 
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
 - 📚 Cursando curso técnico em Desenvolvimento de Sistemas no Senai SIG - Data Final: 03/2025.
