@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos projetos em que estou trabalhando, além de informações sobre mim e minhas habilidades.
 
 ## 🚀 Sobre Mim
-- 🔭 [Projeto Final - Modelo de IA Gestão Financeira Empresarial e pessoal/Senai Taguatinga].
-- 
+- 🔭 [Projeto Final - Python-IA - Senai Taguatinga - Modelo de IA Gestão Financeira Empresarial e pessoal].
+- 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços e Gestão financeira ].
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
 - 📚 Cursando curso técnico em Desenvolvimento de Sistemas no Senai SIG - Data Final: 03/2025.
@@ -49,9 +49,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - java.util
   - JDBC
   - Springboot
+  - Maven
 
 ### Habilidades/Conhecimento
-- HTML
+- HTML - Thymeleaf - Bootstrap
 - CSS
 - Machine learning
 - Mineração de textos
@@ -71,7 +72,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Bancos de Dados
 - MySQL
 - SQLite
-
+- H2
+  
 ### Certificados
 - Certificado de Soft Skills.
 - Desenvolvedor Python.
@@ -80,7 +82,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🌟 Projetos em Destaque
 - [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
-- [Projetos Java](https://github.com/lucasm9140/javaMatutino.git)
+- [Projetos Java](https://github.com/lucasm9140/JavaProjetoFinal.git)
 - [Projeto Dio](https://github.com/lucasm9140/Projeto-dio.git)
 - [Projeto Python - I.A Gestão de gastos empresariais e pessoais](https://github.com/lucasm9140/project_final)
 
