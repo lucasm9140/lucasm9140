@@ -93,10 +93,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - Inteligência Artificial.
 - Desenvolvedor Fullstack.
 
-  ## 📊 GitHub Stats  
+## 📊 GitHub Status  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasm9140&show_icons=true&theme=tokyonight)  
 
-## 🔥 Streak Stats  
+## 🔥 Estatísticas da sequência  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasm9140&theme=tokyonight)  
 
 ## 💻 Linguagens mais usadas  
