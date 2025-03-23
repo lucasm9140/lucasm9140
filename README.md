@@ -6,9 +6,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 [Projeto Final - Python-IA - Senai Taguatinga - Modelo de IA Gestão Financeira Empresarial e pessoal].
 - 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços e Gestão financeira ].
 - 👯 Estou procurando colaborar em projetos open source.
+- 📚 Curso Técnico em Desenvolvimento de Sistemas no Senai SIG - Concluido
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
-- 📚 Cursando curso técnico em Desenvolvimento de Sistemas no Senai SIG - Data Final: 03/2025.
 - 📚 Cursando FullStack - Senai EAD
+- 📚 Cursando Defesa Cibernética - Senai/Cisco
 - 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
