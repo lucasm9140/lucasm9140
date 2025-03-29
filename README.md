@@ -4,7 +4,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Sobre Mim
 - 🔭 [Projeto Final - Python-IA - Senai Taguatinga - Modelo de IA Gestão Financeira Empresarial e pessoal].
-- 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços e Gestão financeira ].
+- 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços e Gestão financeira].
+- 👯 [Desenvolvendo Projeto - Python - Sistema ERP - Gestão de estoque, Vendas e Análise de vendas].
 - 👯 Estou procurando colaborar em projetos open source.
 - 📚 Curso Técnico em Desenvolvimento de Sistemas no Senai SIG - Concluido
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
