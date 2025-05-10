@@ -10,11 +10,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 📚 Curso Técnico em Desenvolvimento de Sistemas no Senai SIG - Concluido
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
 - 📚 Cursando FullStack - Senai EAD
-- 📚 Cursando Defesa Cibernética - Senai/Cisco
+- 📚 Cursando Defesa Cibernética - Uninter/Cisco
 - 📚 Cursando curso de inglês - Meu nível: Intermediário.
 - 💬 Pergunte-me sobre [Tecnologias].
 - 📫 Como me encontrar: 
-  - Email: [lucas.jesus6@aluno.senai.br](mailto:lucas.jesus6@aluno.senai.br)
+  - Email: [luca14fdk@gmail.com](lucas14fdk@gmail.com)
   - LinkedIn: [linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279](https://linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279)
 - ⚡ Fato curioso: Sou disciplinado e sempre busco aprender mais!
 
@@ -56,8 +56,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Habilidades/Conhecimento
 - HTML - Thymeleaf - Bootstrap
 - CSS
+- React
+- Next.js
 - Machine learning
 - Mineração de textos
+- Web Scraping 
 - Análise Exploratória de Dados
 - Deep learning
 
@@ -75,11 +78,14 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - MySQL
 - SQLite
 - H2
+- MongoDB
   
 ### Certificados
+- Técnico em Desenvolvimento de Sistemas.
 - Certificado de Soft Skills.
 - Desenvolvedor Python.
 - Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad.
+- Python essentials 1 - CISCO NetAcad.
 - Inteligência Artificial.
 
 ## 🌟 Projetos em Destaque
@@ -91,9 +97,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🌱 Interesses Pessoais
 - Desenvolvimento de Software.
 - Desenvolvimento Web.
+- Desenvolvedor Fullstack.
 - Ciência de Dados.
 - Inteligência Artificial.
-- Desenvolvedor Fullstack.
+- Automação.
+- Chatbot.
+- Tecnologia.
+- Redes.
 
 ## 📊 GitHub Status  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasm9140&show_icons=true&theme=tokyonight)  
