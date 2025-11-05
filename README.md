@@ -54,6 +54,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ### Habilidades/Conhecimento
 - HTML - Thymeleaf - Bootstrap
+- Angular
 - CSS
 - React
 - Next.js
@@ -78,6 +79,33 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - SQLite
 - H2
 - MongoDB
+
+### 🎓 Formação FullStack Senai – Conteúdos e Ferramentas
+
+- 📌 Fundamentos
+- Indústria 4.0, Qualidade e Produtividade, TIC (Tecnologia da Informação e Comunicação)
+- Lógica de Programação, Metodologias Ágeis (Scrum, Kanban)
+- Versionamento com Git e GitHub
+
+### 💻 Desenvolvimento Front-End
+- HTML, CSS, JavaScript
+- Planejamento e construção de interfaces responsivas
+- Consumo de APIs
+- **Framework aprendido:** Angular
+- Testes de Front-End com **Jasmine**
+
+### ⚙ Desenvolvimento Back-End
+- Java, Python e introdução a C#
+- Criação de APIs REST
+- Conexão com MySQL, SQLite, SQLAlchemy
+- Autenticação, segurança e validação de dados
+
+### 🧪 Ferramentas e Testes
+- **Testes Automatizados**
+- **Selenium** (testes end-to-end)
+- **JUnit** (testes unitários em Java)
+- **Jasmine** (testes em JavaScript/Angular)
+- Criação de suítes de testes e relatórios
   
 ### Certificados
 - Técnico em Desenvolvimento de Sistemas.
