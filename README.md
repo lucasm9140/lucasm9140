@@ -80,7 +80,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - H2
 - MongoDB
 
-### 🎓 Formação FullStack Senai – Conteúdos e Ferramentas
+## 🎓 Formação FullStack Senai – Conteúdos e Ferramentas
 
 ### 📌 Fundamentos
 - Indústria 4.0, Qualidade e Produtividade, TIC (Tecnologia da Informação e Comunicação)
