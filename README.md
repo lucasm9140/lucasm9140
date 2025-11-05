@@ -82,7 +82,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ### 🎓 Formação FullStack Senai – Conteúdos e Ferramentas
 
-- 📌 Fundamentos
+### 📌 Fundamentos
 - Indústria 4.0, Qualidade e Produtividade, TIC (Tecnologia da Informação e Comunicação)
 - Lógica de Programação, Metodologias Ágeis (Scrum, Kanban)
 - Versionamento com Git e GitHub
