@@ -103,12 +103,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### 🧪 Ferramentas e Testes
 - **Testes Automatizados**
 - **Selenium** (testes end-to-end)
-- **JUnit** (testes unitários em Java)
 - **Jasmine** (testes em JavaScript/Angular)
 - Criação de suítes de testes e relatórios
   
 ### Certificados
 - Técnico em Desenvolvimento de Sistemas.
+- Curso FullStack.
 - Certificado de Soft Skills.
 - Desenvolvedor Python.
 - Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad.
