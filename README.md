@@ -7,6 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços].
 - 👯 [Desenvolvendo Projeto - Python - Sistema ERP - Gestão de estoque, Vendas e Análise de vendas].
 - 👯 Estou procurando colaborar em projetos open source.
+- 📚 Curso Desenvolvedor Python/IA - Senai Taguatinga - Concluído.
 - 📚 Curso Técnico em Desenvolvimento de Sistemas no Senai SIG - Concluido.
 - 📚 Curso FullStack Senai EAD - SP - Concluído.
 - 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
