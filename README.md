@@ -21,7 +21,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### Linguagens de Programação
 - Python
 - Java
-- C
+- C++
+- C#
 - JavaScript
 
 ### Frameworks e Bibliotecas
