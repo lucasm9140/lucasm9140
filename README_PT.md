@@ -30,7 +30,7 @@ Tecnologias: Python, OpenCV, MediaPipe/Dlib, NumPy
 🔗 **Repository:** https://github.com/lucasm9140/prova_tarde
 
 ---
-### 🔹 Python ERP — Sistema ERP em Desenvolvimento (Python)
+### 🔹 Python ERP Tabacaria — Sistema ERP em Desenvolvimento (Python)
 Projeto de **ERP desenvolvido em Python**, com foco em organização de regras de negócio, estruturação de módulos e simulação de funcionalidades comuns em sistemas empresariais, como cadastro, controle e processamento de dados.  
 O projeto tem caráter acadêmico e experimental, sendo utilizado para praticar lógica de programação, organização de código e conceitos básicos de sistemas de gestão.  
 Tecnologias: Python  
