@@ -31,13 +31,13 @@ Focused on video processing, facial detection, and event-based logic, this proje
 Technologies: Python, OpenCV, MediaPipe/Dlib, NumPy  
 🔗 **Repository:** https://github.com/lucasm9140/prova_tarde
 
+---
+
 ### 🔹 Python ERP — ERP System Under Development (Python)
 ERP project developed in **Python**, focused on business logic organization, modular structure, and simulation of common enterprise system functionalities such as data registration, control, and processing.  
 This is an academic and experimental project aimed at practicing programming logic, code organization, and core concepts of management systems.  
 Technologies: Python  
 🔗 **Repository:** https://github.com/lucasm9140/python_erp
-
-
 
 ---
 
@@ -76,5 +76,13 @@ Technologies: Python
 - 💼 LinkedIn: https://linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279
 
 ---
+## 📊 GitHub Status  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasm9140&show_icons=true&theme=tokyonight)  
+
+## 🔥 Estatísticas da sequência  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasm9140&theme=tokyonight)  
+
+## 💻 Linguagens mais usadas  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm9140&layout=compact&theme=tokyonight)
 
 ⭐ *Feel free to explore my repositories and follow my journey as a developer.*
