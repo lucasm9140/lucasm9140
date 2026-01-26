@@ -74,6 +74,7 @@ Technologies: Python
 
 - 📧 Email: **luca14fdk@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279
+- 💻 Portfolio: https://lucasm9140.github.io/portfoliouninter/
 
 ---
 ## 📊 GitHub Status  
