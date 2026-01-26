@@ -33,7 +33,7 @@ Technologies: Python, OpenCV, MediaPipe/Dlib, NumPy
 
 ---
 
-### 🔹 Python ERP — ERP System Under Development (Python)
+### 🔹 Python ERP Tobacconist — ERP System Under Development (Python)
 ERP project developed in **Python**, focused on business logic organization, modular structure, and simulation of common enterprise system functionalities such as data registration, control, and processing.  
 This is an academic and experimental project aimed at practicing programming logic, code organization, and core concepts of management systems.  
 Technologies: Python  
@@ -41,16 +41,89 @@ Technologies: Python
 
 ---
 
-## 🧠 Main Technologies
-
-- **Back-end:** Python, Java, C#
-- **Front-end:** HTML, CSS, JavaScript, Angular, React
-- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Databases:** MySQL, SQLite, MongoDB, H2
-- **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse
+## 🧠 Programming Languages
+- Python
+- Java
+- C#
+- JavaScript
+- C++
 
 ---
+## 🧩 Frameworks, Libraries & Platforms
 
+### 🔹 Python
+- Flask
+- FastAPI
+- Django
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Seaborn
+- SQLAlchemy
+- PyMySQL
+- Streamlit
+- Pygame
+- PyTorch
+- TensorFlow
+- Joblib
+
+---
+### 🔹 Java
+- JavaFX
+- Swing (JFrame)
+- JDBC
+- Spring Boot
+
+---
+### 🧪 Testing
+- Automated Testing
+- Selenium (end-to-end testing)
+- Jasmine (JavaScript/Angular testing)
+- Test suite creation and test reporting
+- Test integration in Java projects using Maven
+
+---
+### 🔹 .NET
+- .NET Platform
+
+---
+## 🌐 Web Development
+- HTML5
+- CSS3
+- Bootstrap
+- Thymeleaf
+- Angular
+- React
+- Next.js
+
+---
+## 📊 Data, AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Exploratory Data Analysis (EDA)
+- Text Mining (NLP)
+- Web Scraping
+
+---
+## 🛠 Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Eclipse IDE
+- NetBeans
+- Google Colab
+- Arduino
+
+---
+## 🗄 Databases
+- MySQL
+- SQLite
+- H2
+- MongoDB
+
+---
 ## 🎓 Education
 
 - Technical Degree in Systems Development – **SENAI**
@@ -59,7 +132,6 @@ Technologies: Python
 - English: **Intermediate**
 
 ---
-
 ## 🌱 Interests
 
 - Software Development
@@ -69,7 +141,6 @@ Technologies: Python
 - ERP Systems and APIs
 
 ---
-
 ## 📫 Contact
 
 - 📧 Email: **luca14fdk@gmail.com**
