@@ -71,8 +71,16 @@ Tecnologias: Python
 - Swing (JFrame)
 - JDBC
 - Spring Boot
-- Maven
 
+---
+### 🧪 Testes
+- Testes Automatizados
+- Selenium (testes end-to-end)
+- Jasmine (testes em JavaScript/Angular)
+- Criação de suítes de testes e relatórios
+- Integração de testes em projetos Java com Maven
+
+---
 ### 🔹 .NET
 - .NET Platform
 
