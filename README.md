@@ -1,147 +1,80 @@
-# Olá, eu sou [Lucas Matheus] 👋
+🇺🇸 English | 🇧🇷 [Português](README_PT.md)
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos projetos em que estou trabalhando, além de informações sobre mim e minhas habilidades.
+# Hi, I'm Lucas Matheus 👋
 
-## 🚀 Sobre Mim
-- 🔭 [Projeto Final - Python-IA - Senai Taguatinga - Modelo de IA Gestão Financeira Empresarial e pessoal].
-- 🔭 [Projeto Final - Java - Sistema Web ERP - Agendamento e Gerenciamento de Serviços].
-- 👯 [Desenvolvendo Projeto - Python - Sistema ERP - Gestão de estoque, Vendas e Análise de vendas].
-- 👯 Estou procurando colaborar em projetos open source.
-- 📚 Curso Desenvolvedor Python/IA - Senai Taguatinga - Concluído.
-- 📚 Curso Técnico em Desenvolvimento de Sistemas no Senai SIG - Concluido.
-- 📚 Curso FullStack Senai EAD - SP - Concluído.
-- 📚 Cursando nivel superior - Análise e Desenvolvimento de Sistemas, EAD - Uninter.
-- 📚 Cursando curso de inglês - Meu nível: Intermediário.
-- 💬 Pergunte-me sobre [Tecnologias].
-- 📫 Como me encontrar: 
-  - Email: [luca14fdk@gmail.com](lucas14fdk@gmail.com)
-  - LinkedIn: [linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279](https://linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279)
-- ⚡ Fato curioso: Sou disciplinado e sempre busco aprender mais!
+An entry-level developer focused on **Python, Java, and Artificial Intelligence**.  
+I have academic and hands-on experience building **ERP systems, APIs, automation tools, and data analysis solutions**, always aiming to solve real-world problems with technology.
 
-### Linguagens de Programação
-- Python
-- Java
-- C++
-- C#
-- JavaScript
+Currently seeking **internship or junior developer opportunities**, where I can grow professionally and contribute to meaningful projects.
 
-### Frameworks e Bibliotecas
-- **Python:** 
-  - Flask
-  - Flat
-  - FastAPI
-  - Django
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Sklearn
-  - Seaborn
-  - SqlAlchemy
-  - Pymysql
-  - Streamlit
-  - Pygame
-  - Pytorch
-  - TensorFlow
-  - Joblib
+---
 
-- **Java:**
-  - JavaFX
-  - Jframe
-  - java.lang
-  - java.io
-  - java.util
-  - JDBC
-  - Springboot
-  - Maven
+## 🚀 Featured Projects
 
-### Habilidades/Conhecimento
-- HTML - Thymeleaf - Bootstrap
-- Angular
-- CSS
-- React
-- Next.js
-- Machine learning
-- Mineração de textos
-- Web Scraping 
-- Análise Exploratória de Dados
-- Deep learning
+### 🔹 AI for Financial Management (Python)
+Artificial Intelligence model for **analyzing, forecasting, and managing personal and business expenses**.  
+Technologies: Python, Pandas, Scikit-learn, Streamlit  
+🔗 **Repository:** *(https://github.com/lucasm9140/project_final_modeloIA)*
 
-### Ferramentas e Plataformas
-- Git
-- GitHub
-- Visual Studio Code
-- Arduino
-- Eclipse IDE
-- Google Colab
-- IntelliJ
-- Netbeans
+---
 
-### Bancos de Dados
-- MySQL
-- SQLite
-- H2
-- MongoDB
+### 🔹 Web ERP System – Scheduling & Services (Java)
+Web system for **service scheduling, customer management, and operations**, developed as a final project.  
+Technologies: Java, Spring Boot, JDBC, MySQL  
+🔗 **Repository:** *(https://github.com/lucasm9140/JavaProjetoFinal/tree/main)*
 
-## 🎓 Formação FullStack Senai – Conteúdos e Ferramentas
+---
 
-### 📌 Fundamentos
-- Indústria 4.0, Qualidade e Produtividade, TIC (Tecnologia da Informação e Comunicação)
-- Lógica de Programação, Metodologias Ágeis (Scrum, Kanban)
-- Versionamento com Git e GitHub
+### 🔹 Don’t Sleep — Driver Drowsiness Detection System (Python)
+Python project that implements an **intelligent system to detect driver drowsiness**, using computer vision techniques to monitor eye closure in real time and trigger *visual and sound alerts*.  
+Focused on video processing, facial detection, and event-based logic, this project demonstrates a practical application of image analysis and lightweight machine learning concepts.  
+Technologies: Python, OpenCV, MediaPipe/Dlib, NumPy  
+🔗 **Repository:** https://github.com/lucasm9140/prova_tarde
 
-### 💻 Desenvolvimento Front-End
-- HTML, CSS, JavaScript
-- Planejamento e construção de interfaces responsivas
-- Consumo de APIs
-- **Framework aprendido:** Angular
-- Testes de Front-End com **Jasmine**
+### 🔹 Python ERP — ERP System Under Development (Python)
+ERP project developed in **Python**, focused on business logic organization, modular structure, and simulation of common enterprise system functionalities such as data registration, control, and processing.  
+This is an academic and experimental project aimed at practicing programming logic, code organization, and core concepts of management systems.  
+Technologies: Python  
+🔗 **Repository:** https://github.com/lucasm9140/python_erp
 
-### ⚙ Desenvolvimento Back-End
-- Java, Python e introdução a C#
-- Criação de APIs REST
-- Conexão com MySQL, SQLite, SQLAlchemy
-- Autenticação, segurança e validação de dados
-
-### 🧪 Ferramentas e Testes
-- **Testes Automatizados**
-- **Selenium** (testes end-to-end)
-- **Jasmine** (testes em JavaScript/Angular)
-- Criação de suítes de testes e relatórios
-  
-### Certificados
-- Técnico em Desenvolvimento de Sistemas.
-- Curso FullStack.
-- Certificado de Soft Skills.
-- Desenvolvedor Python.
-- Aperfeiçoamento em PCA: Conceitos essenciais de programação em Python - CISCO NetAcad.
-- Python essentials 1 - CISCO NetAcad.
-- Inteligência Artificial.
-
-## 🌟 Projetos em Destaque
-- [Diario de bordo](https://github.com/lucasm9140/alo_mundo_proj_final.git)  
-- [Projetos Java](https://github.com/lucasm9140/JavaProjetoFinal.git)
-- [Projeto Dio](https://github.com/lucasm9140/Projeto-dio.git)
-- [Projeto Python - I.A Gestão de gastos empresariais e pessoais](https://github.com/lucasm9140/project_final)
-
-## 🌱 Interesses Pessoais
-- Desenvolvimento de Software.
-- Desenvolvimento Web.
-- Desenvolvedor Fullstack.
-- Ciência de Dados.
-- Inteligência Artificial.
-- Automação.
-- Chatbot.
-- Tecnologia.
-- Redes.
-
-## 📊 GitHub Status  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasm9140&show_icons=true&theme=tokyonight)  
-
-## 🔥 Estatísticas da sequência  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasm9140&theme=tokyonight)  
-
-## 💻 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm9140&layout=compact&theme=tokyonight)
 
 
 ---
+
+## 🧠 Main Technologies
+
+- **Back-end:** Python, Java, C#
+- **Front-end:** HTML, CSS, JavaScript, Angular, React
+- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Databases:** MySQL, SQLite, MongoDB, H2
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse
+
+---
+
+## 🎓 Education
+
+- Technical Degree in Systems Development – **SENAI**
+- Python & Artificial Intelligence Developer – **SENAI**
+- Associate Degree in Systems Analysis and Development – **UNINTER** *(ongoing)*
+- English: **Intermediate**
+
+---
+
+## 🌱 Interests
+
+- Software Development
+- Full Stack Web Development
+- Data Science & Artificial Intelligence
+- Process Automation
+- ERP Systems and APIs
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **luca14fdk@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/lucas-matheus-rodrigues-de-jesus-285890279
+
+---
+
+⭐ *Feel free to explore my repositories and follow my journey as a developer.*
