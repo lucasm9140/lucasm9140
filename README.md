@@ -40,13 +40,13 @@ Technologies: Python
 🔗 **Repository:** https://github.com/lucasm9140/python_erp
 
 ---
+## 🧠 Main Technologies
 
-## 🧠 Programming Languages
-- Python
-- Java
-- C#
-- JavaScript
-- C++
+- **Back-end:** Python, Java, C#, C++
+- **Front-end:** HTML, CSS, JavaScript, Angular, React
+- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Databases:** MySQL, SQLite, MongoDB, H2
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse
 
 ---
 ## 🧩 Frameworks, Libraries & Platforms
