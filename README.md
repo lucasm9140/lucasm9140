@@ -149,7 +149,7 @@ Technologies: Python
 
 ---
 ## 📊 GitHub Status  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasm9140&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats) 
 
 ## 🔥 Estatísticas da sequência  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasm9140&theme=tokyonight)  
