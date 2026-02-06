@@ -149,7 +149,7 @@ Technologies: Python
 
 ---
 ## 📊 GitHub Status  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)] 
 
 ## 🔥 Estatísticas da sequência  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasm9140&theme=tokyonight)  
